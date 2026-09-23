@@ -45,3 +45,7 @@ We kept the code minimal on purpose — here's what to set up before prod: The d
 
 **Fintech Invoice Review Python: PDF**
 - **Fintech Invoice Review Python:** Generation draws on credit; large/complex documents cost more — watch `GET /v1/account/usage`.
+
+## Further reading
+
+- [Reproducible PDF Bundle Assembly: API Manifests for Signed Contract Evidence](docs/reproducible-pdf-bundle-assembly-api-manifests-fo-n1m7a0.md)
